@@ -1,3 +1,4 @@
+![logo](https://github.com/viraj-data/viraj-data/blob/main/download.gif)
 
 <h1 align="center">Hi 👋, I'm Viraj Kumar</h1>
 <h3 align="center">Data Analyst | AI & ML Practitioner</h3>
@@ -6,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viraj-data&label=Profile%20views&color=0e75b6&style=flat" alt="viraj-data" /> </p>
 
-- 💬 **Ask me about** Python,Algorithm,SQL
+- 💬 **Ask me about -** Python,Algorithm,SQL
 
 - 📫 **How to reach me -** virajkr.contact@gmail.com
 
