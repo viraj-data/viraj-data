@@ -48,7 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj-data&show_icons=true&locale=en&layout=compact" alt="viraj-data" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj-data&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&exclude_repo=viraj-" alt="viraj-data" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj-data&show_icons=true&locale=en" alt="viraj-data" /></p>
 
