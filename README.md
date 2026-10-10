@@ -50,6 +50,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj-data&show_icons=true&locale=en&layout=compact" alt="viraj-data" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj-data&show_icons=true&locale=en&theme=tokyonight" style="display:none;" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viraj-data&show_icons=true&locale=en" alt="viraj-data" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viraj-data&show_icons=true&locale=en" alt="viraj-data" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viraj-data&" alt="viraj-data" /></p>
