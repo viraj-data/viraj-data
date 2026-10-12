@@ -1,4 +1,4 @@
-![logo](https://github.com/viraj-data/viraj-data/blob/main/download.gif)
+![logo](https://github.com/viraj-data/viraj-data/blob/main/Purple%20and%20Black%20Modern%20Software%20Developer%20LinkedIn%20Banner%20(5).gif)
 
 <h1 align="center">Hi 👋, I'm Viraj Kumar</h1>
 <h3 align="center">Data Analyst | AI & ML Practitioner</h3>
